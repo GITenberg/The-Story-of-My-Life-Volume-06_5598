@@ -1,11 +1,14 @@
 _repo: The-Story-of-My-Life-Volume-06_5598
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Safford, Mary J.
     alias: Safford, Mary Joanna
     gutenberg_agent_id: '1802'
     url: http://www.gutenberg.org/2009/agents/1802
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ebers, Georg
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1800
     wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5598#The-Story-of-My-Life-Volume-06
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
