@@ -1,5 +1,5 @@
 _repo: The-Story-of-My-Life-Volume-06_5598
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -32,5 +32,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PT'
 - !lcsh 'Ebers, Georg, 1837-1898'
+- GITenberg
 title: The Story of My Life — Volume 06
 url: http://www.gutenberg.org/ebooks/5598
